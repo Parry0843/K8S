@@ -1,4 +1,5 @@
 apiVersion: networking.k8s.io/v1beta1 # for versions before 1.14 use extensions/v1beta1
+# Sample comments to test GIT
 kind: Ingress
 metadata:
   name: gmf-ingress
